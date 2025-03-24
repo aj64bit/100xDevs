@@ -10,3 +10,7 @@ app.get('/', (req, res) => {
 });
 
 app.listen(3005)
+
+
+// route
+// http://localhost:3005/?n=2&m=23342
